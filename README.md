@@ -1,1 +1,1 @@
-# projekty_cpp
+# Projekty ze struktur danych
